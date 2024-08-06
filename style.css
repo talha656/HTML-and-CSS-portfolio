@@ -1,0 +1,17 @@
+html{
+background-color: black;
+}
+h1{
+  text-transform: uppercase;
+  color: beige;
+  text-align: center;
+}
+p{
+  text-align: center;
+  color: beige;
+}
+img{
+  margin-left: 360px;
+  border:solid wheat;
+  
+}
